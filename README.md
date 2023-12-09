@@ -34,3 +34,4 @@ I don't know what to write here really so here is a list of useful Links:
 - Tools:
   - [Nushell](https://www.nushell.sh/)
   - [Gum](https://github.com/charmbracelet/gum)
+  - [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
