@@ -22,9 +22,10 @@ I don't know what to write here really so here is a list of useful Links (mostly
   - [Love2D](https://love2d.org/wiki/Main_Page)
   - [utf8.lua](https://gist.github.com/Stepets/3b4dbaf5e6e6a60f3862)
   - [Lua in Rust](https://crates.io/crates/mlua)
-  - [MoonScript](https://moonscript.org/)
   - [Fengari](https://fengari.io/) (Lua for the Browser)
+  - [MoonScript](https://moonscript.org/)
   - [Nelua](https://nelua.io/) (Typed and Compiled Lua)
+  - [Terra](https://terralang.org/)
   - [Luvit](https://luvit.io/) (Async I/O for Lua)
 
 - NeoVim:
