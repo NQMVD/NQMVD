@@ -1,6 +1,6 @@
 # Welcome to my Repos!
 
-I don't know what to write here really so here is a list of useful Links:
+I don't know what to write here really so here is a list of useful Links (mostly used by my self):
 
 - Cheatsheets:
   - [Learn X in Y mins](https://learnxinyminutes.com/)
