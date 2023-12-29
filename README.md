@@ -21,6 +21,8 @@ I don't know what to write here really so here is a list of useful Links (mostly
 - Lua:
   - [Love2D](https://love2d.org/wiki/Main_Page)
   - [Love2D Web-Runner](https://schellingb.github.io/LoveWebBuilder/) (converts a love2d project to a website)
+  - [PICO-8](https://www.lexaloffle.com/pico-8.php)
+  - [Picotron Playground](https://www.lexaloffle.com/picotron.php?page=playground)
   - [utf8.lua](https://gist.github.com/Stepets/3b4dbaf5e6e6a60f3862)
   - [Lua in Rust](https://crates.io/crates/mlua)
   - [Fengari](https://fengari.io/) (Lua for the Browser)
