@@ -47,4 +47,7 @@ I don't know what to write here really so here is a list of useful Links (mostly
     - lua, moonscript
     - lapis web framework
   - [rxi]()
-  - 
+    - small but nice lua libraries
+   
+- Other Projects:
+  - [LCS](https://github.com/LogicCircuitSim/LCS/tree/menu-update)
