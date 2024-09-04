@@ -19,7 +19,6 @@
 - [kickstart.nvim]()
 - [noahvim]()
 
-
 #### Design
 - [zellij-sequoia]()
 - [helix-sequoia]()
@@ -39,3 +38,4 @@
 #### Lua
 - [lume]()(maintained after rxi stopped merging prs)
 - [zeitdings]()
+- [L.C.S.](https://github.com/LogicCircuitSim/LCS/tree/menu-update)
