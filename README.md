@@ -1,53 +1,41 @@
-# Welcome to my Repos!
+# Welcome!
 
-I don't know what to write here really so here is a list of useful Links (mostly used by my self):
+> Here are som useful links:
 
-- Cheatsheets:
-  - [Learn X in Y mins](https://learnxinyminutes.com/)
-  - [cht.sh](cht.sh)
-  - [My Gists](https://gist.github.com/ItsNMB) (other stuff there too (that i should move, now that i think about it))
+### My Websites
+- [Portfolio](https://docs.stardive.dev)
+- [Alternative Portfolio](https://noahbuergler.framer.website)
 
-- Rust:
-  - [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
-  - [Rust in Y mins](https://learnxinyminutes.com/docs/rust/)
-  - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
-  - [Rust Book](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
-  - [Rust Cook Book](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
-  - [Cargo Book](https://doc.rust-lang.org/cargo/index.html)
-  - [Gentle Intro to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-  - [Bevy Engine](https://github.com/bevyengine/bevy)
-  - 
- 
-- Lua:
-  - [Love2D](https://love2d.org/wiki/Main_Page)
-  - [Love2D Web-Runner](https://schellingb.github.io/LoveWebBuilder/) (converts a love2d project to a website)
-  - [PICO-8](https://www.lexaloffle.com/pico-8.php)
-  - [Picotron Playground](https://www.lexaloffle.com/picotron.php?page=playground)
-  - [utf8.lua](https://gist.github.com/Stepets/3b4dbaf5e6e6a60f3862)
-  - [Lua in Rust](https://crates.io/crates/mlua)
-  - [Fengari](https://fengari.io/) (Lua for the Browser)
-  - [MoonScript](https://moonscript.org/)
-  - [Nelua](https://nelua.io/) (Typed and Compiled Lua)
-  - [Terra](https://terralang.org/)
-  - [Luvit](https://luvit.io/) (Async I/O for Lua)
+### Current Projects
+- [boss]()
+- [squircle]()
+- [docs]()(temporary Repo for the Portfolio Website)
 
-- NeoVim:
-  - [CheatSheet](https://learnxinyminutes.com/docs/vim/)
-  - [LazyVim](https://www.lazyvim.org/installation)
-  - [Rust Tools](https://github.com/mrcjkb/rustaceanvim)
-  - [Nyoom](https://github.com/nyoom-engineering/nyoom.nvim) (Needs an update tho)
+### My Repos
 
-- Tools:
-  - [Nushell](https://www.nushell.sh/)
-  - [Gum](https://github.com/charmbracelet/gum)
-  - [Awesome TUIs](https://github.com/rothgar/awesome-tuis)
+#### Linux
+- [shellscripts]()
+- [dotfiles]()
+- [kickstart.nvim]()
+- [noahvim]()
 
-- People on Github:
-  - [leafo](https://github.com/leafo)
-    - lua, moonscript
-    - lapis web framework
-  - [rxi]()
-    - small but nice lua libraries
-   
-- Other Projects:
-  - [LCS](https://github.com/LogicCircuitSim/LCS/tree/menu-update)
+
+#### Design
+- [zellij-sequoia]()
+- [helix-sequoia]()
+
+#### Games
+- [wasteland-scavengers]()
+- [Slay-Remastered]()
+- [slimerancher-helper]()
+
+
+#### Java
+- [Java-Projects]()
+- [MyJava-Projects]()
+- [Processing-Projects]()
+- [ImageTextExtractor]()
+
+#### Lua
+- [lume]()(maintained after rxi stopped merging prs)
+- [zeitdings]()
