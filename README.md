@@ -1,6 +1,6 @@
 # Welcome!
 
-> Here are som useful links:
+> Here are some useful links:
 
 ### My Websites
 - [Portfolio](https://docs.stardive.dev)
