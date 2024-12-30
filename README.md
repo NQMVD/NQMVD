@@ -1,15 +1,14 @@
 # Welcome!
 
-> Here are some useful links:
+> Here are some links:
 
 ### My Websites
-- [Portfolio](https://docs.stardive.dev)
+- [Portfolio](https://stardive.space)
 - [Alternative Portfolio](https://noahbuergler.framer.website)
 
 ### Current Projects
-- [boss]()
+- [boss](https://github.com/NQMVD/boss)
 - [squircle]()
-- [docs]()(temporary Repo for the Portfolio Website)
 
 ### My Repos
 
